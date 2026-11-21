@@ -4,10 +4,10 @@ Senior Solutions Architect at **American Express Global Business Travel (CWT Phi
 
 I design backend integrations and microservices, and spend a good chunk of my time on platform engineering — CI/CD, observability, and lately, bringing AI agents into everyday developer workflows.
 
-- 🔭 Architected the several system across our bookings infrastructure like the **Trip Repository** and **CWT-Spotnana** integration
+- 🔭 Architected several systems across our bookings infrastructure, including the **Trip Repository** and **CWT–Spotnana** integration
 - 💳 Stabilized our payments platform through the **India tokenization rollout**, building out observability and alerting that turned blind spots into proactive incident detection
 - 📈 Rolled out **OpenTelemetry** and the **Grafana OSS LGTM+ stack** for observability across our microservices
-- ⚙️ Introduced **GitHub Actions** alongside our existing Jenkins pipelines, and drove targeted **AWS cost optimization** across our infrastructure
+- ⚙️ Introduced **GitHub Actions** alongside our existing Jenkins pipelines, and drove **AWS cost optimization** that cut annual infrastructure spend by roughly 35% (~$300K/year)
 - 🤖 Leading our team's AI adoption: provisioned shared **MCP servers** and built **CLI tools for AI agents**, now in use across 20+ developers and testers and expanding to more teams
 - 🧠 Built a **RAG platform** for our dev team: an ingestion backend that indexes **GitHub, Jira, and Confluence**, plus an API and **MCP server** that serves grounded answers right inside **Claude Code** and **GitHub Copilot**
 - 🌱 Background in Spring Boot/Spring MVC backend systems, AWS & Azure cloud infrastructure
@@ -32,12 +32,16 @@ I design backend integrations and microservices, and spend a good chunk of my ti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-- **Backend:** Spring Boot, Spring MVC, Spring Security, Spring Batch, Spring Data JPA, JOOQ
-- **Cloud:** AWS (ECS, EC2, ECR, ELB, S3, SNS, SQS), Azure (App Service, Container Registry, Service Bus, Key Vault), Terraform, Ansible
+- **Backend:** Java, Spring Boot, Spring MVC, Spring Cloud, Spring Security, Spring Batch, Spring Data JPA, JOOQ, Flyway
+- **Cloud:** AWS (ECS, EC2, ECR, ELB, S3, SNS, SQS, MSK), Azure (App Service, Container Registry, Service Bus, Blob Storage, Key Vault), Terraform, Ansible, Kafka
 - **Observability:** OpenTelemetry, Grafana OSS (LGTM+ stack), Prometheus, Async Profiler
 - **CI/CD:** Jenkins, GitHub Actions, Bitbucket Pipelines, Docker, Gradle
 - **Databases:** PostgreSQL, MySQL, MSSQL, H2
+- **Security:** HashiCorp Vault, OAuth2, LDAP, Snyk, Veracode
 - **AI & Developer Tooling:** RAG, MCP servers, Claude Code, GitHub Copilot
 
 ## 📊 GitHub Stats
