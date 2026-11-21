@@ -9,6 +9,7 @@ I design backend integrations and microservices, and spend a good chunk of my ti
 - 📈 Rolled out **OpenTelemetry** and the **Grafana OSS LGTM+ stack** for observability across our microservices
 - ⚙️ Introduced **GitHub Actions** alongside our existing Jenkins pipelines, and drove targeted **AWS cost optimization** across our infrastructure
 - 🤖 Leading our team's AI adoption: provisioned shared **MCP servers** and built **CLI tools for AI agents**, now in use across 20+ developers and testers and expanding to more teams
+- 🧠 Built a **RAG platform** for our dev team: an ingestion backend that indexes **GitHub, Jira, and Confluence**, plus an API and **MCP server** that serves grounded answers right inside **Claude Code** and **GitHub Copilot**
 - 🌱 Background in Spring Boot/Spring MVC backend systems, AWS & Azure cloud infrastructure
 
 ## 🛠️ Tech I work with
@@ -37,6 +38,7 @@ I design backend integrations and microservices, and spend a good chunk of my ti
 - **Observability:** OpenTelemetry, Grafana OSS (LGTM+ stack), Prometheus, Async Profiler
 - **CI/CD:** Jenkins, GitHub Actions, Bitbucket Pipelines, Docker, Gradle
 - **Databases:** PostgreSQL, MySQL, MSSQL, H2
+- **AI & Developer Tooling:** RAG, MCP servers, Claude Code, GitHub Copilot
 
 ## 📊 GitHub Stats
 
